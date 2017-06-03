@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/oleksandr/newShell/ls.cpp
+dirent.h
+-
+iostream
+-
+boost/filesystem.hpp
+-
+boost/function.hpp
+-
+boost/regex.hpp
+-
+unordered_map
+-
+boost/algorithm/string/predicate.hpp
+-
+regex
+-
+iomanip
+-
+

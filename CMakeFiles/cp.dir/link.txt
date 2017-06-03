@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/cp.dir/cp.cpp.o  -o cp /usr/lib/x86_64-linux-gnu/libboost_program_options.so /usr/lib/x86_64-linux-gnu/libboost_filesystem.so /usr/lib/x86_64-linux-gnu/libboost_system.so 

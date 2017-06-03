@@ -1,0 +1,8 @@
+/home/oleksandr/newShell/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/oleksandr/newShell/cmake-build-debug/CMakeFiles/mkdir.dir
+/home/oleksandr/newShell/cmake-build-debug/CMakeFiles/ls.dir
+/home/oleksandr/newShell/cmake-build-debug/CMakeFiles/mv.dir
+/home/oleksandr/newShell/cmake-build-debug/CMakeFiles/cp.dir
+/home/oleksandr/newShell/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/oleksandr/newShell/cmake-build-debug/CMakeFiles/rm.dir
+/home/oleksandr/newShell/cmake-build-debug/CMakeFiles/newShell.dir
