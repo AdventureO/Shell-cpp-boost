@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="ls"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ls">
+				<Option output="/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug/ls" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug/Makefile&quot;  VERBOSE=1 ls"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ls/fast">
+				<Option output="/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug/ls" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug/Makefile&quot;  VERBOSE=1 ls/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mv">
+				<Option output="/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug/mv" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug/Makefile&quot;  VERBOSE=1 mv"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mv/fast">
+				<Option output="/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug/mv" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug/Makefile&quot;  VERBOSE=1 mv/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cp">
+				<Option output="/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug/cp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug/Makefile&quot;  VERBOSE=1 cp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cp/fast">
+				<Option output="/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug/cp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug/Makefile&quot;  VERBOSE=1 cp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rm">
+				<Option output="/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug/rm" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug/Makefile&quot;  VERBOSE=1 rm"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rm/fast">
+				<Option output="/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug/rm" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug/Makefile&quot;  VERBOSE=1 rm/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="newShell">
+				<Option output="/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug/newShell" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug/Makefile&quot;  VERBOSE=1 newShell"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="newShell/fast">
+				<Option output="/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug/newShell" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug/Makefile&quot;  VERBOSE=1 newShell/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/theoriginms7/Desktop/asd/newShell/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/theoriginms7/Desktop/asd/newShell/cp.cpp">
+			<Option target="cp"/>
+		</Unit>
+		<Unit filename="/home/theoriginms7/Desktop/asd/newShell/headers/ls.h">
+			<Option target="newShell"/>
+		</Unit>
+		<Unit filename="/home/theoriginms7/Desktop/asd/newShell/help.h">
+			<Option target="newShell"/>
+		</Unit>
+		<Unit filename="/home/theoriginms7/Desktop/asd/newShell/ls.cpp">
+			<Option target="ls"/>
+		</Unit>
+		<Unit filename="/home/theoriginms7/Desktop/asd/newShell/main.cpp">
+			<Option target="newShell"/>
+		</Unit>
+		<Unit filename="/home/theoriginms7/Desktop/asd/newShell/mv.cpp">
+			<Option target="mv"/>
+		</Unit>
+		<Unit filename="/home/theoriginms7/Desktop/asd/newShell/proccess.h">
+			<Option target="newShell"/>
+		</Unit>
+		<Unit filename="/home/theoriginms7/Desktop/asd/newShell/rm.cpp">
+			<Option target="rm"/>
+		</Unit>
+		<Unit filename="/home/theoriginms7/Desktop/asd/newShell/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

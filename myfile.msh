@@ -1,0 +1,6 @@
+mkdir new
+help
+cp text1.txt text2.txt
+PRINT SOME TEXT
+exit
+
